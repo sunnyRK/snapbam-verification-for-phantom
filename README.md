@@ -2,5 +2,6 @@
 
 This repository is created to verify ownership of the domain `https://snapbam.fun` for addressing warnings on Phantom Wallet.
 
-Domain: [https://snapbam.fun](https://snapbam.fun)  
+Landing Page Domain: [https://snapbam.fun](https://snapbam.fun)  
+App Domain: [https://solana.snapbam.fun](https://solana.snapbam.fun)  
 Ticket Number: 4319
